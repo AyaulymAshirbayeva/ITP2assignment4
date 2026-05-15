@@ -48,9 +48,9 @@ def help_command(message, bot):
         "/fact - random fact\n"
         "/validate email - validate email\n"
         "/about - bot info\n"
-        "/translate - translate any text to Chinese\n"
+        "/translate text - translate any text to Chinese\n"
         "/stats - see stats about library\n"
-        "/search - find any book by title, author, year"
+        "/search (title/year/author) - find any book by title, author, year"
     )
 
     bot.send_message(message.chat.id, text)
