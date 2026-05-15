@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Pride and Prejudice",
+        "year": 1814,
+        "pages": 350,
+        "author": "Jane Austen"
+    },
+    {
+        "id": 2,
+        "name": "The Book Thief",
+        "year": 2011,
+        "pages": 552,
+        "author": "Markus Zusak"
+    },
+    {
+        "id": 3,
+        "name": "Emma",
+        "year": 1815,
+        "pages": 474,
+        "author": "Jane Austen"
+    },
+    {
+        "id": 4,
+        "name": "Life of Pi",
+        "year": 2010,
+        "pages": 352,
+        "author": "Yann Martel"
+    },
+    {
+        "id": 5,
+        "name": "1984",
+        "author": "Orwell",
+        "year": 1997,
+        "pages": 500
+    }
+]
