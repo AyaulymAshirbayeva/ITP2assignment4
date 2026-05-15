@@ -181,12 +181,12 @@ def validate_command(message, bot):
 def about_command(message, bot):
     # Текст с информацией о боте
     about_text = (
-        " *О боте:*\n\n"
-        "Я — Aitu Books Bot. Моя задача — помогать вам управлять библиотекой книг.\n\n"
-        "С моей помощью вы можете сохранять новые книги, просматривать список добавленных, "
-        "искать литературу по авторам, количеству страниц и годам издания.\n\n"
-        "Версия API: 1.0\n"
-        "Нажмите /help, чтобы посмотреть список всех команд!"
+        "*About the bot:*\n\n"
+"I am Aitu Books Bot. My purpose is to help you manage a book library.\n\n"
+"With my help, you can save new books, view the list of added books, "
+"and search for literature by author, number of pages, and publication year.\n\n"
+"API version: 1.0\n"
+"Press /help to see the full list of commands!"
     )
 
     bot.send_message(
