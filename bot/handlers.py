@@ -183,7 +183,7 @@ def about_command(message, bot):
     about_text = (
         "*About the bot:*\n\n"
 "I am Aitu Books Bot. My purpose is to help you manage a book library.\n\n"
-"With my help, you can save new books, view the list of added books, "
+"With my help, you can  save new books, view the list of added books, "
 "and search for literature by author, number of pages, and publication year.\n\n"
 "API version: 1.0\n"
 "Press /help to see the full list of commands!"

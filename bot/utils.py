@@ -13,7 +13,7 @@ def log_command(func):
 facts = [
     "Libraries existed thousands of years ago.",
     "Reading for six minutes can reduce physical stress levels by 67%",
-    "The fastest readers can process over 25,000 words per minute.",
+    "The fastest readers can process over 25,000 words  per minute.",
     "India currently ranks as the world's most well-read nation by hours spent."
 ]
 
